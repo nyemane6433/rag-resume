@@ -1,4 +1,5 @@
 # RAG Resume
+This demo takes sample resumes runs through llm and embedder and stores chunks of documents and its vectors in MongoDB Atlas. Using MongoDB Atlas Vector Search and lanchain integration, use question and answer prompt to retrieve chunks of data for similarity search. 
 
 ## Prequisites
 ### Create Cluster 
