@@ -16,6 +16,11 @@
   - username: demo
   - password: demo
 
+### Configure Network Access
+- Navigate to Network Access
+- Select Add IP Address
+- Select " Allow Access from Anywhere"
+
 ### Create database and collection
 - Database: resume
 - Collection: coll
