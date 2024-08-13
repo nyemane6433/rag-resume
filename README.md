@@ -21,6 +21,12 @@
 - Select Add IP Address
 - Select " Allow Access from Anywhere"
 
+### Atlas Connection String
+- Select "Connect"
+- Select Drivers
+- Select Python and python driver version
+- Copy the connection string. Replace username / password with demo / demo
+
 ### Create database and collection
 - Database: resume
 - Collection: coll
