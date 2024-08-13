@@ -15,7 +15,7 @@
 - Create a database user
   - username: demo
   - password: demo
-    
+
 ### Configure Network Access
 - Navigate to Network Access
 - Select Add IP Address
