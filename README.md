@@ -12,9 +12,7 @@
  
 ### Create Database User
 - Navigate to Database Access
-- Create a database user
-  - username: demo
-  - password: demo
+- Create database user 
 
 ### Configure Network Access
 - Navigate to Network Access
