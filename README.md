@@ -48,4 +48,13 @@
       }
     ]
   }
+```
 
+### Rag Jupyter Notebook
+```.env``` file
+- Replace MONGO_URI with your connection string
+- Replace OPENAI_API_KEY with the open ai api key.
+
+```resume-rag.ipynb```
+- Replace MONGO_URI with your connection string
+- Replace OPENAI_API_KEY with the open ai api key.
