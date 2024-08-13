@@ -12,7 +12,9 @@
  
 ### Create Database User
 - Navigate to Database Access
-- Create database user 
+- Create database user
+  - username: demo
+  - password: demo
 
 ### Configure Network Access
 - Navigate to Network Access
@@ -20,11 +22,10 @@
 - Select "Allow Access from Anywhere"
 
 - ### Get Atlas Connection String
-- Select "Connect"
-- Select "Drivers"
-- Select "Python" and Select Python driver version from drop down
-- Copy the Connection String
-This will be the MongoDB Atlas Connection String. Replace username / password with demo / demo.
+- From Databases view, select Connect
+- Select Drivers
+- Select Python and python driver version
+- Copy the connection string. This will be the MongoDB Atlas Cluster connection string. Replace username / password with demo / demo.
 
 ### Create database and collection
 - Database: resume
