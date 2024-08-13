@@ -16,17 +16,6 @@
   - username: demo
   - password: demo
 
-### Configure Network Access
-- Navigate to Network Access
-- Select Add IP Address
-- Select "Allow Access from Anywhere"
-
-- ### Get Atlas Connection String
-- From Databases view, select Connect
-- Select Drivers
-- Select Python and python driver version
-- Copy the connection string. This will be the MongoDB Atlas Cluster connection string. Replace username / password with demo / demo.
-
 ### Create database and collection
 - Database: resume
 - Collection: coll
