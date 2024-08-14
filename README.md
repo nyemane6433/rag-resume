@@ -53,9 +53,9 @@ This demo takes sample resumes runs through llm and embedder and stores chunks o
 
 ### Rag Jupyter Notebook
 ```.env``` 
-- Replace MONGO_URI with your connection string
+- Replace MONGO_URI with Atlas connection string
 - Replace OPENAI_API_KEY with the open ai api key.
 
 ```resume-rag.ipynb```
-- Replace MONGO_URI with your connection string
+- Replace MONGO_URI with Atlas connection string
 - Replace OPENAI_API_KEY with the open ai api key.
